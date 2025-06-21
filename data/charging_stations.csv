@@ -1,0 +1,16 @@
+id,name,city,district,latitude,longitude,location_type
+1,Kadikoy Station 1,Istanbul,Kadikoy,40.9918,29.0270,AVM
+2,Kadikoy Station 2,Istanbul,Kadikoy,40.9900,29.0300,Otopark
+3,Besiktas Station 1,Istanbul,Besiktas,41.0438,29.0094,Benzinlik
+4,Tuzla Station 1,Istanbul,Tuzla,40.8159,29.3000,Ozel
+5,Tuzla Station 2,Istanbul,Tuzla,40.8220,29.3161,AVM
+6,Cankaya Station 1,Ankara,Cankaya,39.9250,32.8663,AVM
+7,Cankaya Station 2,Ankara,Cankaya,39.9300,32.8700,Ozel
+8,Mamak Station 1,Ankara,Mamak,39.9477,32.8800,Otopark
+9,Konak Station 1,Izmir,Konak,38.4192,27.1287,AVM
+10,Bornova Station 1,Izmir,Bornova,38.4590,27.2264,Otopark
+11,Bornova Station 2,Izmir,Bornova,38.4630,27.2200,Ozel
+12,Nilufer Station 1,Bursa,Nilüfer,40.2100,28.9750,AVM
+13,Osmangazi Station 1,Bursa,Osmangazi,40.1826,29.0667,Otopark
+14,Muratpasa Station 1,Antalya,Muratpasa,36.8841,30.7056,AVM
+15,Kepez Station 1,Antalya,Kepez,36.9122,30.7133,Benzinlik
